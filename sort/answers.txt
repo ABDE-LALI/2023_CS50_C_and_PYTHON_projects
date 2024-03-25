@@ -1,0 +1,14 @@
+sort1 uses:bubble sort
+
+How do you know?: this program has the smallest running time compared to the other programs for sorting
+the sorted numbers list
+
+sort2 uses: Merge sort
+
+How do you know?:this program has the smallest runing time compared to the oder programs for sorting
+the random numbers list
+
+sort3 uses: selection sort
+
+How do you know?: this program has the largest running time compared to the other programs for sorting
+the sorted numbers list
